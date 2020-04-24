@@ -6,7 +6,7 @@ public class CalculatorTest {
 
     @Test
     public void testNullInputs() {
-        assertEquals(new Integer(3),calculator.sumAllNumbers(0,1).get());
+        assertEquals(new Integer(2),calculator.sumAllNumbers(0,1).get());
     }
     
 }
