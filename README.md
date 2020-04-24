@@ -1,4 +1,5 @@
 # TravisCIDemo754
+[![Build Status](https://travis-ci.com/raghavgarg32/TravisCIDemo754.svg?branch=RG-Demo)](https://travis-ci.com/raghavgarg32/TravisCIDemo754)
 
 ## Instructions for students!
 
